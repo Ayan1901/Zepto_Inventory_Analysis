@@ -19,6 +19,6 @@ To transform raw inventory data into actionable insights for:
 - **Database:** PostgreSQL  
 - **Language:** SQL  
 - **Environment:** pgAdmin   
-- **Dataset:** `(https://github.com/Ayan1901/Zepto_Inventory_Analysis/blob/main/zepto_inventory_dataset.csv)` (10K+ SKUs)  
+- **Dataset:** https://github.com/Ayan1901/Zepto_Inventory_Analysis/blob/main/zepto_inventory_dataset.csv (10K+ SKUs)  
 
 
